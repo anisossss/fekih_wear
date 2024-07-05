@@ -212,12 +212,12 @@ const Shop = () => {
         <Product img={img3} title="Sweatshirts" />
         <Product img={img4} title="Ethnic Wear" />
         <Product img={img1} title="Man Basics" />
+        <Product img={img8} title="Men Sport" />
+        <Product img={img7} title="Women Basics" />
+        <Product img={img9} title="Women Sport" />
         <Product img={img2} title="Tops" />
         <Product img={img5} title="Blazers" />
-        <Product img={img6} title="Suits" />
-        <Product img={img7} title="Antiques" />
-        <Product img={img8} title="Jewellery" />
-        <Product img={img9} title="Watches" />
+        <Product img={img6} title="Pants" />
         <Product img={img10} title="Special Edition" />
       </Right>
     </Section>
